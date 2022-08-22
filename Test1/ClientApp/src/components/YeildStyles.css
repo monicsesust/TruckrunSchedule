@@ -1,0 +1,53 @@
+﻿body {
+    margin-right: 0em;
+    margin-left: 0em;
+}
+
+.cardstyle {
+    border: .2em solid black;
+    margin-bottom: 3em;
+    margin-right: 1.5em;
+    margin-left: 1.5em;
+    padding: .3em;
+    
+}
+
+.cardtitle {
+    text-transform: capitalize;
+    font-weight: bold;
+    text-align: center;
+}
+
+.yeildCount{
+    text-align:center;
+    font-weight: bold;
+    font-size: xx-large;
+}
+.containerWidth {
+    width: 100%;
+    padding-right: 10px;
+    padding-left: 10px;
+    /*margin-right: auto;
+    margin-left: auto;*/
+}
+
+.mycontent-left {
+    border-right: 1px solid #333;
+}
+
+.center {
+    text-align: center;
+}
+
+mark {
+    background-color: yellow;
+    color: black;
+}
+
+.red{
+    color: red;
+}
+
+.divwidth{
+    width: 100%;
+}
